@@ -1,4 +1,6 @@
-# Project 4 — Third-Party AI Vendor Risk Assessment Framework
+# Third-Party AI Vendor Risk Assessment Framework
+<img width="1983" height="793" alt="TP" src="https://github.com/user-attachments/assets/2f29e647-ae6e-45c2-b60f-b08d38d18ee7" />
+
 
 Portfolio-ready AI GRC consulting case study.
 
