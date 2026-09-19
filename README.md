@@ -1,5 +1,6 @@
 # Third-Party AI Vendor Risk Assessment Framework
-<img width="1983" height="793" alt="TP" src="https://github.com/user-attachments/assets/2f29e647-ae6e-45c2-b60f-b08d38d18ee7" />
+<img width="1983" height="605" alt="TP" src="https://github.com/user-attachments/assets/9ac1db12-f1d7-4dcd-b63c-32a322a2d8f1" />
+
 
 **Vendor:** TalentSphere AI, Inc. (fictional)  
 **Product:** TalentSphere RecruitAI  
