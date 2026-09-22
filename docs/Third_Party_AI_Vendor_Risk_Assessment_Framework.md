@@ -1,4 +1,4 @@
-# Project 4 — Third-Party AI Vendor Risk Assessment Framework
+# Third-Party AI Vendor Risk Assessment Framework
 
 **Organisation:** Northstar Financial Services (fictional)  
 **Vendor:** TalentSphere AI, Inc. (fictional)  
